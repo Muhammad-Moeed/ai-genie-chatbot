@@ -1,0 +1,58 @@
+{
+    "sourceFile": "chainlit.config.toml",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 10,
+            "patches": [
+                {
+                    "date": 1748764590933,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1748764865626,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,5 @@\n+\r\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n logo = \"https://yourdomain.com/logo.png\"\r\n"
+                },
+                {
+                    "date": 1748764871159,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,4 @@\n-\r\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n logo = \"https://yourdomain.com/logo.png\"\r\n"
+                },
+                {
+                    "date": 1748764924102,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n-logo = \"https://yourdomain.com/logo.png\"\r\n+logo = \"/logo.png\"\r\n favicon = \"https://yourdomain.com/favicon.ico\"\r\n primary_color = \"#0D9488\"  # Tailwind Emerald-600\r\n"
+                },
+                {
+                    "date": 1748764930549,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n-logo = \"/logo.png\"\r\n+logo = \".//logo.png\"\r\n favicon = \"https://yourdomain.com/favicon.ico\"\r\n primary_color = \"#0D9488\"  # Tailwind Emerald-600\r\n"
+                },
+                {
+                    "date": 1748764948619,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n-logo = \".//logo.png\"\r\n-favicon = \"https://yourdomain.com/favicon.ico\"\r\n+logo = \"./assets/logo.png\"\r\n+favicon = \"favicon.ico\"\r\n primary_color = \"#0D9488\"  # Tailwind Emerald-600\r\n"
+                },
+                {
+                    "date": 1748764983914,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n logo = \"./assets/logo.png\"\r\n-favicon = \"favicon.ico\"\r\n-primary_color = \"#0D9488\"  # Tailwind Emerald-600\r\n+favicon = \"./assets/favicon.ico\"\r\n+primary_color = \"#0D9488\"  \r\n"
+                },
+                {
+                    "date": 1748765333961,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n-logo = \"./assets/logo.png\"\r\n+logo = \"./pu/logo.png\"\r\n favicon = \"./assets/favicon.ico\"\r\n primary_color = \"#0D9488\"  \r\n"
+                },
+                {
+                    "date": 1748765340823,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,6 +1,6 @@\n [UI]\r\n name = \"Moeed AI Chatbot\"\r\n theme = \"light\"  # ya \"dark\"\r\n-logo = \"./pu/logo.png\"\r\n-favicon = \"./assets/favicon.ico\"\r\n+logo = \"./public/logo.png\"\r\n+favicon = \"./public/favicon.ico\"\r\n primary_color = \"#0D9488\"  \r\n"
+                },
+                {
+                    "date": 1748765671669,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,4 +3,5 @@\n theme = \"light\"  # ya \"dark\"\r\n logo = \"./public/logo.png\"\r\n favicon = \"./public/favicon.ico\"\r\n primary_color = \"#0D9488\"  \r\n+custom_css = \"./styles.css\"\r\n"
+                },
+                {
+                    "date": 1748766791293,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,5 +3,5 @@\n theme = \"light\"  # ya \"dark\"\r\n logo = \"./public/logo.png\"\r\n favicon = \"./public/favicon.ico\"\r\n primary_color = \"#0D9488\"  \r\n-custom_css = \"./styles.css\"\r\n+\r\n"
+                }
+            ],
+            "date": 1748764590933,
+            "name": "Commit-0",
+            "content": "[UI]\r\nname = \"Moeed AI Chatbot\"\r\ntheme = \"light\"  # ya \"dark\"\r\nlogo = \"https://yourdomain.com/logo.png\"\r\nfavicon = \"https://yourdomain.com/favicon.ico\"\r\nprimary_color = \"#0D9488\"  # Tailwind Emerald-600\r\n"
+        }
+    ]
+}

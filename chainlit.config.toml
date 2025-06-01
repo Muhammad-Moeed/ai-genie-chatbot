@@ -1,0 +1,7 @@
+[UI]
+name = "Moeed AI Chatbot"
+theme = "light"  # ya "dark"
+logo = "./public/logo.png"
+favicon = "./public/favicon.ico"
+primary_color = "#0D9488"  
+
